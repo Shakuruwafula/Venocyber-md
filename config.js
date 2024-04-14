@@ -93,7 +93,7 @@ module.exports = {
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE||process.env.MODE || "private",
   LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "VENOCYBER",
-
+  soppy 
 
 
 };
